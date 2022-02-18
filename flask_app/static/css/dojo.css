@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    max-width: 1000px;
+}
+
+.content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 50px;
+}
+
+h3{
+    font-weight: lighter;
+}
+
+table{
+    border-style: solid;
+    width: 400px;
+    max-height: fit-content;
+}
+
+th{
+    font-size: 18pt;
+    font-weight: lighter;
+}
